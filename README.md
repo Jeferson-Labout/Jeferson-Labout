@@ -17,6 +17,7 @@
   <img align="center" alt="Jeferson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jeferson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jeferson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jeferson-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="kick-buttowski" height="150"src="https://img.cartoongoodies.com/wp-content/uploads/2020/06/Kick-Buttowski-fist-in-the-air-169x300.png" data-canonical-  src="https://www.pngkey.com/png/full/149-1496931_kick-buttowski.png?width=676&amp;height=676">
 </div>
 
