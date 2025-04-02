@@ -1,7 +1,7 @@
 ### Olá! Eu sou Jeferson Labout...!!!
 
 - 💻  Formação Java Web Full-Stack.
-- 💼 Hoje trabalho como Analista de Tec. Informação no [SESC TOCANTINS](https://www.sescto.com.br/)
+- 💼 Hoje trabalho como Analista de Tec. Informação I no [SESC TOCANTINS](https://www.sescto.com.br/)
 - 📚 Estudando Java, Angular, Javascript, Typescript ...
 ##
 
