@@ -1,5 +1,7 @@
 # 👋 Olá! Eu sou Jeferson Labout
 
+<img align="right" height="150" src="https://www.pngkey.com/png/full/149-1496931_kick-buttowski.png"/>
+
 💻 **Analista de Tecnologia da Informação I** no [SESC Tocantins](https://www.sescto.com.br/)  
 🎓 Formação **Java Web Full-Stack**
 
@@ -13,16 +15,16 @@
 - 🌐 **Angular | TypeScript | JavaScript**
 - ⚙️ **APIs REST | Microsserviços**
 - 🗄️ **SQL Server | DB2**
-- 🔌 **Integrações (Facial, Catracas, WebSocket)**
+- 🔌 **Integrações: Facial, Catracas e WebSocket**
 
 ---
 
 ## 🚀 Experiência prática
 
 - 🔹 Desenvolvimento de sistemas de **comanda e vendas (PDV / Totem)**
-- 🔹 Integração com **reconhecimento facial (Hikvision)**
-- 🔹 Controle de acesso com **catracas (Henry / Topdata)**
-- 🔹 Construção de **APIs corporativas de alto volume**
+- 🔹 Integração com **reconhecimento facial Hikvision**
+- 🔹 Controle de acesso com **catracas Henry / Topdata**
+- 🔹 Construção de **APIs corporativas**
 - 🔹 Otimização de consultas e relatórios em **DB2**
 
 ---
@@ -30,8 +32,8 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <a href="https://github.com/jeferson-labout">
-   <table>
+
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats-tau-hazel-27.vercel.app/api?username=jeferson-labout&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
@@ -41,7 +43,7 @@
     </td>
   </tr>
 </table>
-  </a>
+
 </div>
 
 ---
@@ -65,7 +67,7 @@
 
 ## 🌐 Conecte-se comigo
 
-<div> 
+<div align="center"> 
   <a href="https://www.youtube.com/channel/UCRgcsiRnqRQdemZF5Q3UUOQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
@@ -87,4 +89,8 @@
 
 ## 🐍 Contribuições
 
+<div align="center">
+
 ![Snake animation](https://github.com/jeferson-labout/jeferson-labout/blob/output/github-contribution-grid-snake.svg)
+
+</div>
